@@ -9,14 +9,14 @@ This repository contains free resources to learn System Design concepts and prep
 ✅ If you are new to System Design, start here: [System Design was HARD until I Learned these 30 Concepts](https://blog.algomaster.io/p/30-system-design-concepts)
 
 ## 📌 System Design Key Concepts
-- [Scalability](https://blog.algomaster.io/p/scalability) - done
-- [Availability](https://blog.algomaster.io/p/system-design-what-is-availability) - done
-- [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained) - done
-- [ACID Transactions](https://blog.algomaster.io/p/what-are-acid-transactions-in-databases) - done
-- [Consistent Hashing](https://blog.algomaster.io/p/consistent-hashing-explained) - done
-- [Rate Limiting](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code) - done
-- [SPOF](https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures) - done
-- [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/) - done
+- [Scalability](https://blog.algomaster.io/p/scalability) - Done
+- [Availability](https://blog.algomaster.io/p/system-design-what-is-availability) - Done
+- [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained) - Done
+- [ACID Transactions](https://blog.algomaster.io/p/what-are-acid-transactions-in-databases) - Done
+- [Consistent Hashing](https://blog.algomaster.io/p/consistent-hashing-explained) - Done
+- [Rate Limiting](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code) - Done
+- [SPOF](https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures) - Done
+- [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/) - Done
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
 - [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
 - [Service Discovery](https://blog.algomaster.io/p/service-discovery-in-distributed-systems)
