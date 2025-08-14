@@ -20,7 +20,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c) - Done
 - [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
 - [Service Discovery](https://blog.algomaster.io/p/service-discovery-in-distributed-systems)
-- [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
+- [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f) - Done
 
 ## 🛠️ System Design Building Blocks
 - [APIs](https://blog.algomaster.io/p/whats-an-api)
