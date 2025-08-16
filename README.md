@@ -23,7 +23,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f) - Done
 
 ## 🛠️ System Design Building Blocks
-- [APIs](https://blog.algomaster.io/p/whats-an-api)
+- [APIs](https://blog.algomaster.io/p/whats-an-api) - Done
 - [Content Delivery Network (CDN)](https://blog.algomaster.io/p/content-delivery-networks)
 - [Proxy vs Reverse Proxy](https://blog.algomaster.io/p/proxy-vs-reverse-proxy-explained)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
