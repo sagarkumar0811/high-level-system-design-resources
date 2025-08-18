@@ -43,7 +43,6 @@ This repository contains free resources to learn System Design concepts and prep
 - [Data Redundancy](https://blog.algomaster.io/p/489440f1-9c80-4241-9ec8-de156964c3b9)
 - [Database Sharding](https://blog.algomaster.io/p/what-is-database-sharding)
 - [Database Architectures](https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/)
-- [Failover](https://www.druva.com/glossary/what-is-a-failover-definition-and-related-faqs)
 - [Bloom Filters](https://blog.algomaster.io/p/bloom-filters)
 - [Message Queues](https://blog.algomaster.io/p/message-queues)
 - [WebSockets](https://blog.algomaster.io/p/websockets)
