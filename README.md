@@ -36,7 +36,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [SQL vs NoSQL](https://blog.algomaster.io/p/sql-vs-nosql-7-key-differences)
 - [Database Indexes](https://blog.algomaster.io/p/a-detailed-guide-on-database-indexes)
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
-- [HeartBeats](https://blog.algomaster.io/p/heartbeats-in-distributed-systems)
+- [HeartBeats](https://blog.algomaster.io/p/heartbeats-in-distributed-systems) - Done
 - [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
 - [Idempotency](https://blog.algomaster.io/p/idempotency-in-distributed-systems) - Done
 - [Database Scaling](https://blog.algomaster.io/p/system-design-how-to-scale-a-database)
