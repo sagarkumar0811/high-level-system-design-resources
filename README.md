@@ -30,7 +30,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Caching](https://blog.algomaster.io/p/4d7d6f8a-6803-4c7b-85ca-864c87c2cbf2) - Done
 - [Caching Strategies](https://blog.algomaster.io/p/top-5-caching-strategies-explained) - Done
 - [Distributed Caching](https://blog.algomaster.io/p/distributed-caching)
-- [API Gateway](https://blog.algomaster.io/p/what-is-an-api-gateway)
+- [API Gateway](https://blog.algomaster.io/p/what-is-an-api-gateway) - Done
 - [Load Balancing](https://blog.algomaster.io/p/load-balancing-algorithms-explained-with-code) - Done
 - [Databases Types](https://blog.algomaster.io/p/15-types-of-databases)
 - [SQL vs NoSQL](https://blog.algomaster.io/p/sql-vs-nosql-7-key-differences) - Done
