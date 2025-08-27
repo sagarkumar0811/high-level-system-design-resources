@@ -57,7 +57,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Batch vs Stream Processing](https://blog.algomaster.io/p/batch-processing-vs-stream-processing)
 - [Stateful vs Stateless Design](https://blog.algomaster.io/p/741dff8e-10ea-413e-8dd2-be57434917d2)
 - [Strong vs Eventual Consistency](https://blog.algomaster.io/p/7d9da525-fe25-4e16-94e8-8056e7c57934)
-- [Read-Through vs Write-Through Cache](https://blog.algomaster.io/p/59cae60d-9717-4e20-a59e-759e370db4e5)
+- [Read-Through vs Write-Through Cache](https://blog.algomaster.io/p/59cae60d-9717-4e20-a59e-759e370db4e5) - Done
 - [Push vs Pull Architecture](https://blog.algomaster.io/p/af5fe2fe-9a4f-4708-af43-184945a243af)
 - [REST vs RPC](https://blog.algomaster.io/p/106604fb-b746-41de-88fb-60e932b2ff68)
 - [Synchronous vs. asynchronous communications](https://blog.algomaster.io/p/aec1cebf-6060-45a7-8e00-47364ca70761) - Done
