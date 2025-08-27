@@ -51,7 +51,7 @@ This repository contains free resources to learn System Design concepts and prep
 
 ## ⚖️ System Design Tradeoffs
 - [Top 15 Tradeoffs](https://blog.algomaster.io/p/system-design-top-15-trade-offs)
-- [Vertical vs Horizontal Scaling](https://blog.algomaster.io/p/system-design-vertical-vs-horizontal-scaling)
+- [Vertical vs Horizontal Scaling](https://blog.algomaster.io/p/system-design-vertical-vs-horizontal-scaling) - Done
 - [Concurrency vs Parallelism](https://blog.algomaster.io/p/concurrency-vs-parallelism)
 - [Long Polling vs WebSockets](https://blog.algomaster.io/p/long-polling-vs-websockets)
 - [Batch vs Stream Processing](https://blog.algomaster.io/p/batch-processing-vs-stream-processing)
