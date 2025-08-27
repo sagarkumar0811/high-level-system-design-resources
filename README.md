@@ -43,7 +43,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Database Sharding](https://blog.algomaster.io/p/what-is-database-sharding) - Done
 - [Database Architectures](https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/)
 - [Bloom Filters](https://blog.algomaster.io/p/bloom-filters)
-- [Message Queues](https://blog.algomaster.io/p/message-queues)
+- [Message Queues](https://blog.algomaster.io/p/message-queues) - Done
 - [WebSockets](https://blog.algomaster.io/p/websockets)
 - [Checksums](https://blog.algomaster.io/p/what-are-checksums) - Done
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices) - Done
