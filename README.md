@@ -44,7 +44,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Database Architectures](https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/)
 - [Bloom Filters](https://blog.algomaster.io/p/bloom-filters) - Done
 - [Message Queues](https://blog.algomaster.io/p/message-queues) - Done
-- [WebSockets](https://blog.algomaster.io/p/websockets)
+- [WebSockets](https://blog.algomaster.io/p/websockets) - Done
 - [Checksums](https://blog.algomaster.io/p/what-are-checksums) - Done
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices) - Done
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
