@@ -40,7 +40,6 @@ This repository contains free resources to learn System Design concepts and prep
 - [Database Scaling](https://blog.algomaster.io/p/system-design-how-to-scale-a-database) - Done
 - [Data Redundancy](https://blog.algomaster.io/p/489440f1-9c80-4241-9ec8-de156964c3b9) - Done
 - [Database Sharding](https://blog.algomaster.io/p/what-is-database-sharding) - Done
-- [Database Architectures](https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/)
 - [Bloom Filters](https://blog.algomaster.io/p/bloom-filters) - Done
 - [Message Queues](https://blog.algomaster.io/p/message-queues) - Done
 - [WebSockets](https://blog.algomaster.io/p/websockets) - Done
