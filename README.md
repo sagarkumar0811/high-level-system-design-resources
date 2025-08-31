@@ -54,7 +54,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Vertical vs Horizontal Scaling](https://blog.algomaster.io/p/system-design-vertical-vs-horizontal-scaling) - Done
 - [Concurrency vs Parallelism](https://blog.algomaster.io/p/concurrency-vs-parallelism)
 - [Long Polling vs WebSockets](https://blog.algomaster.io/p/long-polling-vs-websockets)
-- [Batch vs Stream Processing](https://blog.algomaster.io/p/batch-processing-vs-stream-processing)
+- [Batch vs Stream Processing](https://blog.algomaster.io/p/batch-processing-vs-stream-processing) - Done
 - [Stateful vs Stateless Design](https://blog.algomaster.io/p/741dff8e-10ea-413e-8dd2-be57434917d2) - Done
 - [Strong vs Eventual Consistency](https://blog.algomaster.io/p/7d9da525-fe25-4e16-94e8-8056e7c57934)
 - [Read-Through vs Write-Through Cache](https://blog.algomaster.io/p/59cae60d-9717-4e20-a59e-759e370db4e5) - Done
