@@ -56,7 +56,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Long Polling vs WebSockets](https://blog.algomaster.io/p/long-polling-vs-websockets)
 - [Batch vs Stream Processing](https://blog.algomaster.io/p/batch-processing-vs-stream-processing) - Done
 - [Stateful vs Stateless Design](https://blog.algomaster.io/p/741dff8e-10ea-413e-8dd2-be57434917d2) - Done
-- [Strong vs Eventual Consistency](https://blog.algomaster.io/p/7d9da525-fe25-4e16-94e8-8056e7c57934)
+- [Strong vs Eventual Consistency](https://blog.algomaster.io/p/7d9da525-fe25-4e16-94e8-8056e7c57934) - Done
 - [Read-Through vs Write-Through Cache](https://blog.algomaster.io/p/59cae60d-9717-4e20-a59e-759e370db4e5) - Done
 - [Push vs Pull Architecture](https://blog.algomaster.io/p/af5fe2fe-9a4f-4708-af43-184945a243af) - Done
 - [REST vs RPC](https://blog.algomaster.io/p/106604fb-b746-41de-88fb-60e932b2ff68)
