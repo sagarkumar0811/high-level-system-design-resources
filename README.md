@@ -18,7 +18,6 @@ This repository contains free resources to learn System Design concepts and prep
 - [SPOF](https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures) - Done
 - [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/) - Done
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c) - Done
-- [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
 - [Service Discovery](https://blog.algomaster.io/p/service-discovery-in-distributed-systems) - Done
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f) - Done
 
