@@ -34,7 +34,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [SQL vs NoSQL](https://blog.algomaster.io/p/sql-vs-nosql-7-key-differences) - Done
 - [Database Indexes](https://blog.algomaster.io/p/a-detailed-guide-on-database-indexes)
 - [HeartBeats](https://blog.algomaster.io/p/heartbeats-in-distributed-systems) - Done
-- [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
+- [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33) - Done
 - [Idempotency](https://blog.algomaster.io/p/idempotency-in-distributed-systems) - Done
 - [Database Scaling](https://blog.algomaster.io/p/system-design-how-to-scale-a-database) - Done
 - [Data Redundancy](https://blog.algomaster.io/p/489440f1-9c80-4241-9ec8-de156964c3b9) - Done
