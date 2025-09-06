@@ -25,7 +25,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [APIs](https://blog.algomaster.io/p/whats-an-api) - Done
 - [Content Delivery Network (CDN)](https://blog.algomaster.io/p/content-delivery-networks) - Done
 - [Proxy vs Reverse Proxy](https://blog.algomaster.io/p/proxy-vs-reverse-proxy-explained) - Done
-- [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
+- [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/) - Done
 - [Caching](https://blog.algomaster.io/p/4d7d6f8a-6803-4c7b-85ca-864c87c2cbf2) - Done
 - [Caching Strategies](https://blog.algomaster.io/p/top-5-caching-strategies-explained) - Done
 - [Distributed Caching](https://blog.algomaster.io/p/distributed-caching) - Done
