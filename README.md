@@ -44,7 +44,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [WebSockets](https://blog.algomaster.io/p/websockets) - Done
 - [Checksums](https://blog.algomaster.io/p/what-are-checksums) - Done
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices) - Done
-- [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html) - Done
 
 ## ⚖️ System Design Tradeoffs
 - [Top 15 Tradeoffs](https://blog.algomaster.io/p/system-design-top-15-trade-offs)
