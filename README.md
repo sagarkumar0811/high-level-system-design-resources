@@ -32,7 +32,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [API Gateway](https://blog.algomaster.io/p/what-is-an-api-gateway) - Done
 - [Load Balancing](https://blog.algomaster.io/p/load-balancing-algorithms-explained-with-code) - Done
 - [SQL vs NoSQL](https://blog.algomaster.io/p/sql-vs-nosql-7-key-differences) - Done
-- [Database Indexes](https://blog.algomaster.io/p/a-detailed-guide-on-database-indexes)
+- [Database Indexes](https://blog.algomaster.io/p/a-detailed-guide-on-database-indexes) - Done
 - [HeartBeats](https://blog.algomaster.io/p/heartbeats-in-distributed-systems) - Done
 - [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33) - Done
 - [Idempotency](https://blog.algomaster.io/p/idempotency-in-distributed-systems) - Done
